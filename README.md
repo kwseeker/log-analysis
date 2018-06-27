@@ -39,6 +39,7 @@
 
 + for 没有() , 兼顾while的结构
     for 无限循环 for{}
+    for v := range datas {}
 
 + if 没有()
 
@@ -67,4 +68,3 @@
 + 信道
     - 信道创建
         ch := make(chan int)
-    -
